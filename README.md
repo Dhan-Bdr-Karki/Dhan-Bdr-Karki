@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhan-Bdr-Karki
-- 👀 I’m interested in Django and REST API.
+- 👀 I’m interested in Python,Django and REST API.
 - 🌱 I’m currently learning .NET Framework.
 - 💞️ I’m looking to collaborate on the new exciting project if the idea seems innovative.
 - 📫 How to reach me ...
